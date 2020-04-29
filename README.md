@@ -49,8 +49,12 @@
     - [Episode 1](), [Episode 2](), [Episode 3](), [Episode 4]()
     - [Episode 5](), [Episode 6](), [Episode 7](), [Episode 8]()
     - [Episode 9](), [Episode 10](), [Episode 11](), [Episode 12]()
-- [NLP for Developers]()
-- [Algorithm Whiteboard]()
+- [Rasa Installation Guides](https://www.youtube.com/watch?v=4ewIABo0OkU&list=PL75e0qA87dlEWUA5ToqLLR026wIkk2evk)
+- [NLP for Developers](https://www.youtube.com/watch?v=Z_GGVn6LBRI&list=PL75e0qA87dlFJiNMeKltWImhQxfFwaxvv)
+- [Algorithm Whiteboard](https://www.youtube.com/watch?v=wWNMST6t1TA&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb)
+- [Rasa Live Coding Sessions](https://www.youtube.com/watch?v=qW7cPizs8ic&list=PL75e0qA87dlFvomavOFBIX6S9IvtGAXjM) 
+- [Rasa Alexa Tutorial](https://www.youtube.com/watch?v=UpyxLGc3IcI&list=PL75e0qA87dlGBbO8rWacgq9ejr5stsGnh)
+- [Rasa-X Tutorial 1](https://www.youtube.com/watch?v=POcgUi34Aow), [Rasa-X Tutorial 2](https://www.youtube.com/watch?v=8Sc7-AiY0fg&feature=youtu.be), [Rasa-X Tutorial 3](https://www.youtube.com/watch?v=6Pghab6b28E&feature=youtu.be)
 
 ## Future Events
 
