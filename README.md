@@ -9,6 +9,7 @@
 - [Multi-Language](#Multi-Language)
 - [Training Data](#Training-Data)
 - [Youtube](#Youtube)
+- [Message Channels](#Message-Channels)
 - [Future Events](#Future-Events)
 - [Past Events](#Past-Events)
 
@@ -17,6 +18,17 @@
 - [Rasa Docs](https://rasa.com/docs/rasa/)
 - [Rasa-X Docs](https://rasa.com/docs/rasa-x/)
 - [Rasa Forum](https://forum.rasa.com/)
+
+## Message Channels 
+
+- [Documentation on Channels](https://rasa.com/docs/rasa/user-guide/messaging-and-voice-channels/)
+- [Facebook Messenger](https://www.messenger.com/) [Docs](https://rasa.com/docs/rasa/user-guide/connectors/facebook-messenger/)
+- [Slack](https://slack.com/intl/en-nl/) [Docs](https://rasa.com/docs/rasa/user-guide/connectors/slack/)
+- [Telegram](https://telegram.org/) [Docs](https://rasa.com/docs/rasa/user-guide/connectors/telegram/)
+- [Twilio](https://www.twilio.com/) [Docs](https://rasa.com/docs/rasa/user-guide/connectors/twilio/)
+- [Whatsapp](https://www.whatsapp.com/download/) [Docs](https://rasa.com/docs/rasa/user-guide/connectors/twilio/#id3)
+- [RocketChat](https://rocket.chat/) [Docs](https://rasa.com/docs/rasa/user-guide/connectors/rocketchat/)
+
 
 ## Training Data
 
