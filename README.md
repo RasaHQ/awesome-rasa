@@ -7,8 +7,10 @@
 - [Community Resources](#Community-Resources)
 - [Machine Learning](#Machine-Learning-Libraries)
 - [Multi-Language](#Multi-Language)
-- [Data](#Training-Data)
+- [Training Data](#Training-Data)
 - [Youtube](#Youtube)
+- [Future Events](#Future-Events)
+- [Past Events](#Past-Events)
 
 ## Community Resources 
 
@@ -37,3 +39,11 @@
     - [Episode 9](), [Episode 10](), [Episode 11](), [Episode 12]()
 - [NLP for Developers]()
 - [Algorithm Whiteboard]()
+
+## Future Events
+
+- [L3-AI](http://l3-ai.dev/)
+
+## Past Events
+
+- [Rasa Summit](https://rasa.com/summit/)
